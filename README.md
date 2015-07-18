@@ -1,1 +1,2 @@
 # ecoufjfgv
+Um teste simples para ver como as coisas funcionam no github, até o momento, por mais indelicado que seja, o curso que estou fazendo não trouxe nada de excepcional. Tudo que assisti representa, não mais nem menos, do que um dia de aula na faculdade, ou alguma páginas de um livro, que resumem o máximo possível de informação. Sinto que estamos raspando na casca de algo mais profundo. Embora interessante e poderoso, o foco desse curso e a forma em que ele é apresentado, poderia, ser melhor direcionado, pois parece mais um click-bait. Resumindo, me sinto frustrado.
